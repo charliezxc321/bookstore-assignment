@@ -45,3 +45,13 @@ curl --location 'localhost:8080/books/search?title=The%20Lord%20of%20the%20Rings
 curl --location --request DELETE 'localhost:8080/books?isbn=9780065461868' \
 --header 'Authorization: Basic YWRtaW5fdXNlcjp0ZXN0MTIz' \
 --header 'Cookie: JSESSIONID=B3A20C8671512794FA838597F32F6476'
+
+
+## Roles and Credentials ##
+Role: ADMIN
+Username: admin_user
+Password: test123
+
+Role: USER
+Username: normal_user
+Password: test321
