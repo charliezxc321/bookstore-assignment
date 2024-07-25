@@ -5,7 +5,7 @@ A simple bookstore for users to upload and retrieve their books
 Please setup a local mysql service, on port 3306.
 Please refer to script db_setup.mysql to run the init commands before starting the application. \
 	- create a user bookstore-admin, with password bookstore-admin. \
-	- create a schema "book_test" \
+	- create a schema "book_test" 
 
 ## Add a new book ##
 curl --location 'localhost:8080/books' \
