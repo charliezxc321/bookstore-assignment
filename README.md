@@ -1,4 +1,4 @@
-# bookstore-assignment
+# Bookstore-assignment
 A simple bookstore for users to upload and retrieve their books
 
 Please setup a local mysql service, with on 3306.
