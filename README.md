@@ -48,10 +48,10 @@ curl --location --request DELETE 'localhost:8080/books?isbn=9780065461868' \
 
 
 ## Roles and Credentials ##
-Role: ADMIN
-Username: admin_user
+Role: ADMIN \
+Username: admin_user \
 Password: test123
 
-Role: USER
-Username: normal_user
+Role: USER \
+Username: normal_user \
 Password: test321
