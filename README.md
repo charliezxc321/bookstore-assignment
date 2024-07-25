@@ -1,8 +1,9 @@
 # Bookstore-assignment
 A simple bookstore for users to upload and retrieve their books
 
-Please setup a local mysql service, with on 3306.
-Please refer to script db_setup.mysql to run init commands before starting the application.
+## Requirements ##
+Please setup a local mysql service, on port 3306.
+Please refer to script db_setup.mysql to run the init commands before starting the application.
 	- create a user bookstore-admin, with password bookstore-admin.
 	- create a schema "book_test"
 
